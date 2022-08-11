@@ -1,6 +1,8 @@
 # Insertion-Sort-Projesi-patika
 
 https://app.patika.dev/varolius
+https://app.patika.dev/paths
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
 ##1.1)
 
